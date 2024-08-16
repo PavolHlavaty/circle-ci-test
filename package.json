@@ -1,0 +1,14 @@
+{
+  "name": "circle-ci-test",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/PavolHlavaty/circle-ci-test.git",
+  "author": "Pavol Hlavatý <palo.hlavaty@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
